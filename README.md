@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; flex-direction: column;">
 
 ![](https://github-readme-stats.vercel.app/api?username=damir1899&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damir1899&theme=yeblu&hide_border=false)<br/>
