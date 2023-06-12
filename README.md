@@ -1,4 +1,4 @@
-<div style="display: flex; text-allign: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
 ![](https://github-readme-stats.vercel.app/api?username=damir1899&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damir1899&theme=yeblu&hide_border=false)<br/>
